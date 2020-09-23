@@ -1,0 +1,209 @@
+
+.jumbotron  {
+    background-image: url(../images/sky-space-milky-way-stars-110854.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    height: calc(100vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   opacity: 90%;
+   }
+
+ .nav-link{
+    color:white;
+    font-weight:400;
+
+
+ } 
+
+.display-4{
+   padding-top: 10%;
+   color:white;
+   text-align: center;
+   line-height: 1.9;
+}
+     
+.lead{ 
+       color: black;
+        font-size: 22px;
+        font-weight:400;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 20%;
+        margin-right: 20%;
+        text-align: justify;
+
+   }
+   .card-img-top{
+width: 100px;
+ }
+ .intro {
+
+   margin-left: 20%;
+   margin-right: 20%; 
+   margin-bottom: 10%;
+   margin-top: 10%;
+   text-align: justify;
+ }
+ .font-weight-bolder{
+
+   font-size: 28px;
+   padding-bottom: 4%;
+   text-align: center;
+justify-content: center;
+ }
+ .font-weight-bold{
+   font-size: 24px; 
+ }
+ .font-weight-normal{
+   font-size: 20px; 
+ }
+
+
+
+ .card-title{
+
+   justify-content: center;
+   justify-content: center;
+
+ }
+ .card-deck{
+    margin: 5%;
+    
+
+ }
+.navbar {
+
+  
+  background-color:#3d16a1;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.d-inline-block{
+   margin-right: 8%;
+   
+}
+a{
+   color: white;
+
+   font-weight: bold;
+   
+}
+
+.information-bar{
+   margin-left: 20%;
+   margin-right: 20%;
+}
+
+.information-bar{
+   line-height: 3;
+   font-size: 20px;
+}
+
+.card{
+   align-items: center;
+   justify-items: center;
+}
+
+.card-web, .card-phone{
+   padding-top: 3%;
+}
+
+
+
+.card-proto1, .card-proto2{
+   padding-top: 6%;
+   
+}
+.card-sort, .card-sort-user, .card-web-map{
+   padding-top: 5%;
+}
+.prototype{
+   display: flex;
+   margin-left: 5%;
+   margin-left: 5%;
+  
+}
+.prototype img{
+ justify-content: center;
+ align-content: center;
+}
+.line {
+   width:500px;
+   height: 6px;
+   border:none;
+   margin: 3px;
+   display:inline-block;
+   background-color: #3d16a1;
+  
+  
+  
+  
+ }
+ .devider{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+
+    
+    
+   
+    
+  
+ }
+ .style-sheet{
+    margin-left: 5%;
+    margin-right: 5%;
+ }
+ .card{
+    margin-left: 5%;
+    margin-right: 5%;
+ }
+ .footer-container{
+             
+   padding-top: 100px;
+   padding-bottom: 50px;
+   padding-right: 5%;
+   
+   padding-left: 5%;
+
+} 
+.footer-text{
+display: flex;
+
+justify-content: center;
+font-size: 24px;
+
+
+}
+
+
+
+.footer-icon{ 
+display: flex;
+
+justify-content: center;
+
+}
+.footer-icon a{
+
+margin: 10px;
+
+}  
+
+
+.footer-icon img:hover{
+width:30px;
+}
+.copyright{
+   background-color: black;
+   height: 100%;
+   padding: 10px;
+   color: white;
+   text-align: center;
+   
+}
